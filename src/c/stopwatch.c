@@ -1,4 +1,4 @@
-//stopwat.c
+//stopwatch.c
 #include <stdio.h>
 
 int main() {
