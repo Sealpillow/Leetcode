@@ -21,11 +21,18 @@
 |3|[Stopwatch](https://open.kattis.com/problems/stopwatch)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/stopwatch.c)|2021-05-31|10:20:29|
 |3|[Solving for Carrots](https://open.kattis.com/problems/carrots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/carrots.c)|2021-05-31|10:34:27|
 |3|[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/ratingproblems.c)|2021-05-31|11:12:45|	
-|3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
 |3|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/timeloop.c)|2021-05-31|09:50:54|
+|3|[Sibice](https://open.kattis.com/problems/sibice)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-01|10:41:42|
+|3|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-02|11:06:18|
+|3|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
+|3|[Saving For Retirement](https://open.kattis.com/problems/savingforretirement)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/savingforretirement.c)|2021-06-02|11:33:26|
+|3|[Pet](https://open.kattis.com/problems/pet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pet.c)|2021-06-02|17:05:02|
+|3|[Odd Man Out](https://open.kattis.com/problems/oddmanout)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddmanout.c)|2021-06-03|16:48:41|
+|3|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/thelastproblem.c)|2021-06-04|14:04:08|
+|3|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sevenwonders.c)|2021-06-11 |16:18:59|
+|3|[Soda Slurper](https://open.kattis.com/problems/sodaslurper)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sodaslurper.c)|2021-06-12|16:44:27|
+|3|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
+|3|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
 
-
-|3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
-|3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
-|3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
-|3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
+|3|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
+|3|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
