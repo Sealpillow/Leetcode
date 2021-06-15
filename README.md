@@ -33,6 +33,5 @@
 |3|[Soda Slurper](https://open.kattis.com/problems/sodaslurper)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sodaslurper.c)|2021-06-12|16:44:27|
 |3|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |3|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
-
-|3|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
-|3|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
+|3|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
+|3|[Free Food](https://open.kattis.com/problems/freefood)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/freefood.c)|2021-06-14|20:49:33|
