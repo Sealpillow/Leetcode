@@ -1,43 +1,28 @@
 #include <stdio.h>
-#include <string.h>
-
-int main() {
-    int num[3],temp;
-    int n = sizeof(num)/sizeof(num[0]);
-    char alpha[3];
-    scanf("%d %d %d",&num[0],&num[1],&num[2]);
-    scanf("%s",&alpha);
-    
-    for(int i=0;i<n-1;i++)
+int main() 
+{
+    int time=0,correct=0,total=0,prob[26]={0};
+    char status[6],check,alpha;
+    // Every alphabet represented by prob[i], prob[0] will count how many error if A wrong, etc
+    while(time!=-1)
     {
-        for(int j=0;j<n-i-1;j++)
+        scanf("%d",&time);
+        if(time>0)
         {
-            if(num[j+1]<num[j])
+            scanf(" %c %s",&alpha,status);
+            check=status[0];
+            if(check=='r')
             {
-                temp = num[j]; 
-                num[j]=num[j+1];
-                num[j+1]=temp;
+                
+                total=total+time+prob[alpha-65]*20;
+                correct++;
+            }
+           else
+            {
+                prob[alpha-65]++;
             }
         }
     }
-
-    for(int i=0;i<n;i++)
-    {
-        
-        if(alpha[i]=='A')
-        {
-            printf("%d",num[0]);
-        }
-        if(alpha[i]=='B')
-        {
-            printf("%d",num[1]);
-        }
-        if(alpha[i]=='C')
-        {
-            printf("%d",num[2]);
-        }
-        printf(" ");
-    }
-
+    printf("%d %d\n",correct,total);
     return 0;
 }
