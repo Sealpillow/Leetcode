@@ -22,8 +22,9 @@
 |3|[Solving for Carrots](https://open.kattis.com/problems/carrots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/carrots.c)|2021-05-31|10:34:27|
 |3|[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/ratingproblems.c)|2021-05-31|11:12:45|	
 |3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
+|3|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/timeloop.c)|2021-05-31|09:50:54|
 
-|3|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/timeloop.c)|2021-05-31|09:43:35|
+
 |3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
 |3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
 |3|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
