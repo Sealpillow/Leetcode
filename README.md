@@ -9,7 +9,8 @@
 |2|[ABC](https://open.kattis.com/problems/abc)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/abc.c)|2021-05-21|11:06:25|
 |3|[Above Average](https://open.kattis.com/problems/aboveaverage)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/aboveaverage.c)|2021-05-25|21:52:11|
 |4|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/acm.c)|2021-05-29|20:02:19|
-|5|[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/apaxiaaans.c)|2021-05-21|09:32:58|	
+|5|[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/apaxiaaans.c)|2021-05-21|09:32:58|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
 |6|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
 |7|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |8|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cold.c)|2021-05-26|05:02:34|
