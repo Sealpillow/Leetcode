@@ -28,6 +28,8 @@
 |20|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sevenwonders.c)|2021-06-11 |16:18:59|
 |21|[Sibice](https://open.kattis.com/problems/sibice)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-01|10:41:42|
 |22|[Soda Slurper](https://open.kattis.com/problems/sodaslurper)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sodaslurper.c)|2021-06-12|16:44:27|
+|22|[Some Sum](https://open.kattis.com/problems/somesum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/somesum.c)|2021-06-27|20:56:30|
+
 |23|[Solving for Carrots](https://open.kattis.com/problems/carrots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/carrots.c)|2021-05-31|10:34:27|
 |24|[Speed Limit](https://open.kattis.com/problems/speedlimit)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/speedlimit.c)|2021-05-17|10:36:03|	
 |25|[Stopwatch](https://open.kattis.com/problems/stopwatch)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/stopwatch.c)|2021-05-31|10:20:29|
