@@ -1,8 +1,7 @@
-
 #include <stdio.h>
 #include <stdbool.h>
 
-bool check(char move[],int num,int ptx,int pty)
+bool check(char move[],int num,int ptx,int pty) // to count the final destination of x: y:
 {
     int x=0,y=0,degree=90;
     for(int i=0;i<num;i++)
@@ -48,9 +47,8 @@ bool check(char move[],int num,int ptx,int pty)
         
     }
     printf(" end x:%d y:%d\n",x,y);
-    if(x==ptx&&y==pty)
+    if(x==ptx&&y==pty) //check if the final destination tally with the goal
     {
-        printf("true");
         return true; 
     }
     else
@@ -63,7 +61,7 @@ bool check(char move[],int num,int ptx,int pty)
 
 int main() {
 
-    int count,ptx,pty,k=0;
+    int count,ptx,pty;
     bool found = false;
     scanf("%d %d",&ptx,&pty);
     scanf("%d",&count);
@@ -74,22 +72,37 @@ int main() {
         move[i] = string[0];
     }
     
-    while(found!=true)
+    for(int i=0;i<count;i++)//checking all viable route by changing one variable at a time
     {
-        char temp = move[k];
-        move[k] = 'F';
+        int pos;
+        char temp = move[i]; //store variable move[i] in temp
+        //change the variable by F,L,R
+        //pos = line number
+        move[i] = 'F';
         found = check(move,count,ptx,pty);
-        move[k] = 'L';
+        if(found==true)
+        {
+            pos = i+1;
+            printf("%d Forward",pos);
+            break;
+        }
+        move[i] = 'L';
         found = check(move,count,ptx,pty);
-        move[k] = 'R';
+        if(found==true)
+        {
+            pos = i+1;
+            printf("%d Left",pos);
+            break;
+        }
+        move[i] = 'R';
         found = check(move,count,ptx,pty);
-        move[k]= temp;
-        k++;
+        if(found==true)
+        {
+            pos = i+1;
+            printf("%d Right",pos);
+            break;
+        }
+        move[i]= temp; //return move[i] to its original variable
     }
     return 0;
 }
-
-
-
-
-
