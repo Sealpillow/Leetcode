@@ -11,7 +11,7 @@ int main() {
     int n,row,pts;
     scanf("%d",&n);
     row = 1 + pow(2,n); //formula to find sequence
-    pts= row * row;
+    pts= row * row; //to find total pts
     printf("%d",pts);
     return 0;
 }
