@@ -2,24 +2,25 @@
 #include <stdbool.h>
 #include <string.h>
 
-bool check(char word[80][80],int count)
+bool check(char word[81][81],int count)
 {
     int result;
     bool dup;
-    char temp[1][80];
+    char temp[2][81];
     for(int x=0;x<count;x++)
     {
         int length=strlen(word[x]);
-        for(int i=0;i<length;i++)
+        for(int i=0;i<length+1;i++)
         {
-            temp[1][i]=word[x][i];
+            temp[0][i]=word[x][i];
         }
 
-        for(int i=x;i<count-1;i++)
+        for(int j=x;j<count-1;j++)
         {
             
-            result = strcmp(temp[1], word[i+1]);
-            printf("%s %s\n",temp[1],word[i+1]);
+            result = strcmp(temp[0],word[j+1]);
+            printf("%s %s",temp[0],word[j+1]);
+
             if(result==0)
             {
                 dup=true;
@@ -30,7 +31,7 @@ bool check(char word[80][80],int count)
                 dup=false;
             }
             
-         }
+        }
     }
     return dup;
 }
@@ -38,11 +39,11 @@ bool check(char word[80][80],int count)
 int main() {
 
     int k=0;
-    char str[80],alpha[26][80];
+    char str[81],alpha[81][81];
 
-    bool status;
+    bool status=false;
  
-    while(scanf("%s ",str)==1)
+    while(scanf("%s",str)==1)
     {
         int length = strlen(str);
         for(int i=0;i<length;i++)
@@ -56,11 +57,11 @@ int main() {
 
     if(status==true)
     {
-        printf("no");
+        printf("no\n");
     }
     else
     {
-        printf("yes");
+        printf("yes\n");
     }
     
     return 0;
