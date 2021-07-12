@@ -1,7 +1,30 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
+/*
+similar to set function:
+input:  2
+        4
+string: saskatoon
+        toronto
+        winnipeg
+        toronto
+        vancouver
 
+word[0]= {s,a,s,k,a,t,o,o,n}
+word[1]= {t,o,r,o,n,t,o}
+word[2]= {w,i,n,n,i,p,e,g}
+word[3]= {t,o,r,o,n,t,o}
+word[4] ={v,a,n,c,o,u,v,e,r}
+
+check function is used to check if word is in list[], if it not in list[] add it to list, else skip to next.
+
+list[0]= saskatoon
+list[1]= toronto
+list[2]= winnipeg
+list[3] =vancouver
+
+*/
 bool check(char cities[100][21], char cities_list[100][21], int number, int y, int len)
 {
     bool status1 =false;
