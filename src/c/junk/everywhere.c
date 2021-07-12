@@ -5,18 +5,14 @@
 bool check(char cities[100][21], char cities_list[100][21], int number, int y, int len)
 {
     bool status1 =false;
-
     for(int i=0;i<len+1;i++)
     {
         printf("w1:%s w2:%s\n",cities[y],cities_list[i]);
-
         if(strcmp(cities[y],cities_list[i])==0) //if same
         {
             printf("not added:%s\n",cities[y]);
-            return status1=true;
-            
+            return status1=true;   
         }
-
     }
     
     printf("add:%s\n",cities[y]);
@@ -25,7 +21,6 @@ bool check(char cities[100][21], char cities_list[100][21], int number, int y, i
 }
 
 int main() {
-
     int t,n,l,count[50]={0};  
     char string[21];
     bool status;
@@ -42,28 +37,24 @@ int main() {
             int length = strlen(string);
             for(int j=0;j<length+1;j++)
             {
-                word[k][j]= string[j]; //input into word array
-                
+                word[k][j]= string[j]; //add input chars into words
             } 
-
         }
-
-        l =strlen(word[0]); //add first word to list
+        //add first word to list
+        l =strlen(word[0]); 
         printf("list num:%d\n",list_num);
         for(int j=0;j<l+1;j++)
         {
-            list[0][j]=word[0][j]; //add word into list 
+            list[0][j]=word[0][j]; //add word chars into list 
         }
         list_num++;
         printf("no.unique cities:%d\n",list_num);
         printf("list:");
-        for(int p=0;p<list_num;p++)//list_num+1 to include last of list
+        for(int p=0;p<list_num;p++)
         {
             printf("%s,",list[p]);
         }
         printf("\n\n");
-
-
         for(int x=1;x<n;x++)
         {
             status = check(word,list,n,x,list_num);
@@ -86,34 +77,27 @@ int main() {
             }
             printf("\n\n");
         }
-
-
-        for(int x=0;x<list_num+1;x++)//list_num+1 to include last of list
+        for(int x=0;x<list_num;x++)/
         {
             int length2=strlen(list[x]);
             printf("%d\n",length2);
-            for(int k=0;k<length2;k++) //clear list
+            for(int k=0;k<length2;k++) 
             {
                 printf("%c",list[x][k]);
             }
             printf("\nlist:");
-            
-            
-            for(int k=0;k<length2;k++) //clear list
+            //clear list
+            for(int k=0;k<length2;k++) 
             {
-
-                list[x][k]=' ';                
-            }
-            
+                list[x][k]=' ';    //set all to blanks            
+            } 
             printf("\n");
         }
         count[i] = list_num; //insert unique num of cities to count[i]
-
     }
     for(int i=0;i<t;i++)
     {
         printf("%d\n",count[i]); // display unique num of cities 
     }
-
     return 0;
 }
