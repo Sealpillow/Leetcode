@@ -39,8 +39,6 @@ bool check(char string[1000], int cur,int counter)
 }
 
 
-
-
 int main() {
     int l,final_count=0,count1=0,digitcount1=0;
     char s[1000];
@@ -64,7 +62,6 @@ int main() {
         {
             char s2[1000],s3[1000];
             int digitcount2=0,digitcount3=0;
-            printf("in~~~\n");
             if(check(s1,i,digitcount1))//when 5;
             {
                 printf("single;%d\n",s[i-1]-48);
@@ -91,15 +88,10 @@ int main() {
                         for(int k=j+1;k<i-count1;k++)
                         { 
                             printf("!i:%d j:%d count1+k:%d s1[count1+k]:%c\n",i,j,count1+k,s1[count1+k]);
-                            if(s1[k+count1]>='0'&& s1[k+count1]<='9')
-                            {
-                                s3[k-j-1]=s1[k+count1]; 
-                                printf("k-j-1:%d s3[]:%c ,s3[0]:%c\n",k-j-1,s3[k-j-1],s3[0]);
-                                digitcount3++; 
-                                
-                                printf("dc3:%d\n",digitcount3);
-                            }
-   
+                            s3[k-j-1]=s1[k+count1]; 
+                            printf("k-j-1:%d s3[]:%c ,s3[0]:%c\n",k-j-1,s3[k-j-1],s3[0]);
+                            digitcount3++; 
+                            printf("dc3:%d\n",digitcount3);
                         } 
                         break;               
                     }
