@@ -53,6 +53,20 @@
 |32|[No Duplicates](https://open.kattis.com/problems/nodup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/nodup.c)|2021-07-10|16:41:05|
 |32|[Magic Trick](https://open.kattis.com/problems/magictrick)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/magictrick.c)|2021-07-11|10:16:40|
 |32|[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lastfactorialdigit.c)|2021-07-11|11:21:22|
+|32|[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/jumbojavelin.c)|2021-07-11|11:37:54|
+|32|[I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/everywhere.c)|2021-07-11|10:16:40|
+|32|[IsItHalloween.com](https://open.kattis.com/problems/isithalloween)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/isithalloween.c)|2021-07-12|09:44:35|
+|32|[Heart Rate](https://open.kattis.com/problems/heartrate)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heartrate.c)|2021-07-13|06:13:40|
+|32|[Grass Seed Inc.](https://open.kattis.com/problems/grassseed)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/grassseed.c)|2021-07-13|06:52:05|
+|32|[FizzBuzz](https://open.kattis.com/problems/fizzbuzz)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fizzbuzz.c)|2021-07-13|07:11:42|
+|32|[Faktor](https://open.kattis.com/problems/faktor)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/faktor.c)|2021-07-13|07:26:44|
+|32|[Dice Cup](https://open.kattis.com/problems/dicecup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/dicecup.c)|2021-07-13|10:50:10|
+|32|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/conundrum.c)|2021-07-13|11:31:30|
+|32|[Trik](https://open.kattis.com/problems/trik)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/trik.c)|2021-07-13|19:42:29|
+|32|[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/chanukah.c)|2021-07-14|06:56:53|
+
+|32|[Faktor](https://open.kattis.com/problems/faktor)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/faktor.c)|2021-07-13|07:26:44|
+
 
 
 
