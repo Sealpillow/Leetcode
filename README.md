@@ -69,11 +69,28 @@
 |32|[Batter Up](https://open.kattis.com/problems/batterup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/batterup.c)|2021-07-14|08:58:09|
 |32|[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/quickestimate.c)|2021-07-14|12:12:01|
 |32|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pieceofcake2.c)|2021-07-15|06:17:17|
-
-|32|[Bijele](https://open.kattis.com/problems/bijele)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/bijele.c)|2021-07-14|07:25:24|
-
-
-
-
-
-
+|32|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/alphabetspam.py)|2021-07-20|09:08:55|
+|32|[ICPC Awards](https://open.kattis.com/problems/icpcawards)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/icpcawards.py)|2021-07-20|12:49:02|
+|32|[Datum](https://open.kattis.com/problems/datum)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/datum.py)|2021-07-21|06:03:30|
+|32|[Simon Says](https://open.kattis.com/problems/simonsays)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/simonsays.py)|2021-07-21|19:43:32|
+|32|[The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/humancannonball2.py)|2021-07-21|11:22:16|
+|32|[Shattered Cake](https://open.kattis.com/problems/shatteredcake)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/shatteredcake.py)|2021-07-21|19:59:53|
+|32|[Roaming Romans](https://open.kattis.com/problems/romans)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/romans.py)|2021-07-21|20:53:33|
+|32|[Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/reversebinary.py)|2021-07-22|21:25:52|
+|32|[Provinces and Gold](https://open.kattis.com/problems/provincesandgold)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/provincesandgold.py)|2021-07-23|14:30:21|
+|32|[Poker Hand](https://open.kattis.com/problems/pokerhand)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/pokerhand.py)|2021-07-23|20:41:22|
+|32|[Ladder](https://open.kattis.com/problems/romans)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/romans.py)|2021-07-23|21:11:07|
+|32|[FYI](https://open.kattis.com/problems/fyi)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fyi.py)|2021-07-23|21:22:01|
+|32|[Modulo](https://open.kattis.com/problems/modulo)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/modulo.py)|2021-07-24|14:36:18|
+|32|[Number Fun](https://open.kattis.com/problems/numberfun)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/numberfun.py)|2021-07-24|15:02:13|
+|32|[Laptop Sticker](https://open.kattis.com/problems/laptopsticker)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/laptopsticker.py)|2021-07-24|16:36:19|
+|32|[Judging Moose](https://open.kattis.com/problems/judgingmoose)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/judgingmoose.py)|2021-07-24|17:48:20|
+|32|[Avion](https://open.kattis.com/problems/avion)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/avion.py)|2021-07-25|20:56:26|
+|32|[Boat Parts](https://open.kattis.com/problems/boatparts)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/boatparts.py)|2021-07-26|10:12:11|
+|32|[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/jobexpenses.py)|2021-07-26|12:05:39|
+|32|[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/janitortroubles.py)|2021-07-26|15:12:18|
+|32|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/helpaphd.py)|2021-07-28|19:13:34|
+|32|[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/harshadnumbers.py)|2021-07-28|19:37:20|
+|32|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/forcedchoice.py)|2021-07-25|14:44:27|
+|32|[Final Exam](https://open.kattis.com/problems/finalexam2)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/finalexam2.py)|2021-07-25|15:23:50|
+|32|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/alphabetspam.py)|2021-07-25|15:41:43|
