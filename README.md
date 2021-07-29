@@ -13,11 +13,6 @@
 |6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
 |6|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
 |6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
-|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
-|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
-|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
-|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
-|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
 |7|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |8|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cold.c)|2021-05-26|05:02:34|
 |9|[Dice Game](https://open.kattis.com/problems/dicegame)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/dicegame.c)|2021-05-31|05:31:58|
