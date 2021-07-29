@@ -91,6 +91,6 @@
 |32|[Janitor Troubles](https://open.kattis.com/problems/janitortroubles)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/janitortroubles.py)|2021-07-26|15:12:18|
 |32|[Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/helpaphd.py)|2021-07-28|19:13:34|
 |32|[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/harshadnumbers.py)|2021-07-28|19:37:20|
-|32|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/forcedchoice.py)|2021-07-25|14:44:27|
-|32|[Final Exam](https://open.kattis.com/problems/finalexam2)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/finalexam2.py)|2021-07-25|15:23:50|
-|32|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/alphabetspam.py)|2021-07-25|15:41:43|
+|32|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/forcedchoice.py)|2021-07-29|14:44:27|
+|32|[Final Exam](https://open.kattis.com/problems/finalexam2)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/finalexam2.py)|2021-07-29|15:23:50|
+|32|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/alphabetspam.py)|2021-07-29|15:41:43|
