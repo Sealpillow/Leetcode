@@ -13,14 +13,14 @@
 |8|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cold.c)|2021-05-26|05:02:34|
 |4|[ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/acm.c)|2021-05-29|20:02:19|
 |9|[Dice Game](https://open.kattis.com/problems/dicegame)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/dicegame.c)|2021-05-31|05:31:58|
-|16|[Pot](https://open.kattis.com/problems/pot)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pot.c)|2021-05-31|12:13:31|
-|17|[Quadrant Selection](https://open.kattis.com/problems/quadrant)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/quadrant.c)|2021-05-31|11:36:25|
-|18|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/qaly.c)|2021-05-31|11:28:00|
-|19|[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/ratingproblems.c)|2021-05-31|11:12:45|
-|25|[Solving for Carrots](https://open.kattis.com/problems/carrots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/carrots.c)|2021-05-31|10:34:27|
-|27|[Stopwatch](https://open.kattis.com/problems/stopwatch)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/stopwatch.c)|2021-05-31|10:20:29|
-|28|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/timeloop.c)|2021-05-31|09:50:54|
 |29|[Take Two Stones](https://open.kattis.com/problems/twostones)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twostones.c)|2021-05-31|09:43:35|
+|28|[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/timeloop.c)|2021-05-31|09:50:54|
+|27|[Stopwatch](https://open.kattis.com/problems/stopwatch)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/stopwatch.c)|2021-05-31|10:20:29|
+|25|[Solving for Carrots](https://open.kattis.com/problems/carrots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/carrots.c)|2021-05-31|10:34:27|
+|19|[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/ratingproblems.c)|2021-05-31|11:12:45|
+|18|[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/qaly.c)|2021-05-31|11:28:00|
+|17|[Quadrant Selection](https://open.kattis.com/problems/quadrant)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/quadrant.c)|2021-05-31|11:36:25|
+|16|[Pot](https://open.kattis.com/problems/pot)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pot.c)|2021-05-31|12:13:31|
 |30|[Tarifa](https://open.kattis.com/problems/tarifa)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tarifa.c)|2021-06-01|10:23:00|
 |22|[Sibice](https://open.kattis.com/problems/sibice)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-01|10:41:42|
 |12|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
