@@ -22,6 +22,7 @@
 |8|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cold.c)|2021-05-26|05:02:34|
 |9|[Dice Game](https://open.kattis.com/problems/dicegame)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/dicegame.c)|2021-05-31|05:31:58|
 |10|[Free Food](https://open.kattis.com/problems/freefood)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/freefood.c)|2021-06-14|20:49:33|
+|11|[Greetings!](https://open.kattis.com/problems/greetings2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/greetings2.c)|2021-07-10|06:20:34|
 |11|[GlitchBot](https://open.kattis.com/problems/glitchbot)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/glitchbot.c)|2021-06-14|12:07:34|
 |12|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
 |13|[Hello World!](https://open.kattis.com/problems/hello)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/hello.c)|2021-04-30|10:05:26|
