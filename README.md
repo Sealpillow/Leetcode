@@ -43,4 +43,19 @@
 |32|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
 |33|[Zamka](https://open.kattis.com/problems/zamka)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/zamka.py)|2021-07-20|12:21:17|
 |32|[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/jackolanternjuxtaposition.c)|2021-07-10|06:02:59|
+|32|[Filip](https://open.kattis.com/problems/filip)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/filip.c)|2021-07-10|07:02:43|
+|32|[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/electricaloutlets.c)|2021-07-10|07:29:46|
+|32|[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/echoechoecho.c)|2021-07-10|07:34:40|
+|32|[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/addtwonumbers.c)|2021-07-10|07:45:36|
+|32|[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sorttwonumbers.c)|2021-07-10|07:50:48|
+|32|[Planina](https://open.kattis.com/problems/planina)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/planina.c)|2021-07-10|08:19:51|
+|32|[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/nastyhacks.c)|2021-07-10|14:06:09|
+|32|[No Duplicates](https://open.kattis.com/problems/nodup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/nodup.c)|2021-07-10|16:41:05|
+|32|[Magic Trick](https://open.kattis.com/problems/magictrick)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/magictrick.c)|2021-07-11|10:16:40|
+|32|[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lastfactorialdigit.c)|2021-07-11|11:21:22|
+
+
+
+
+
 
