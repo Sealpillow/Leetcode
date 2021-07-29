@@ -12,6 +12,12 @@
 |5|[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/apaxiaaans.c)|2021-05-21|09:32:58|
 |6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
 |6|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
+|6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
 |7|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |8|[Cold-puter Science](https://open.kattis.com/problems/cold)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cold.c)|2021-05-26|05:02:34|
 |9|[Dice Game](https://open.kattis.com/problems/dicegame)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/dicegame.c)|2021-05-31|05:31:58|
@@ -39,4 +45,3 @@
 |29|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-02|11:06:18|
 |31|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/thelastproblem.c)|2021-06-04|14:04:08|
 |32|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
-
