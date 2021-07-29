@@ -32,9 +32,9 @@
 |21|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sevenwonders.c)|2021-06-11 |16:18:59|
 |1|[Aaah!](https://open.kattis.com/problems/aaah)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/aaah.c)|2021-06-11|16:24:12|
 |23|[Soda Slurper](https://open.kattis.com/problems/sodaslurper)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sodaslurper.c)|2021-06-12|16:44:27|
+|7|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |6|[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/basketballoneonone.c)|2021-06-13|14:49:32|
 |32|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
-|7|[Broken Swords](https://open.kattis.com/problems/brokenswords)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/brokenswords.c)|2021-06-13|11:03:40|	
 |10|[Free Food](https://open.kattis.com/problems/freefood)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/freefood.c)|2021-06-14|20:49:33|
 |11|[GlitchBot](https://open.kattis.com/problems/glitchbot)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/glitchbot.c)|2021-06-14|12:07:34|
 |6|[Autori](https://open.kattis.com/problems/autori)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/autori.c)|2021-06-27|20:12:33|
