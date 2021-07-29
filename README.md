@@ -64,9 +64,13 @@
 |32|[Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/conundrum.c)|2021-07-13|11:31:30|
 |32|[Trik](https://open.kattis.com/problems/trik)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/trik.c)|2021-07-13|19:42:29|
 |32|[Chanukah Challenge](https://open.kattis.com/problems/chanukah)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/chanukah.c)|2021-07-14|06:56:53|
+|32|[Bijele](https://open.kattis.com/problems/bijele)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/bijele.c)|2021-07-14|07:25:24|
+|32|[Bela](https://open.kattis.com/problems/bela)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/bela.c)|2021-07-14|08:46:35|
+|32|[Batter Up](https://open.kattis.com/problems/batterup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/batterup.c)|2021-07-14|08:58:09|
+|32|[Quick Estimates](https://open.kattis.com/problems/quickestimate)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/quickestimate.c)|2021-07-14|12:12:01|
+|32|[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pieceofcake2.c)|2021-07-15|06:17:17|
 
-|32|[Faktor](https://open.kattis.com/problems/faktor)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/faktor.c)|2021-07-13|07:26:44|
-
+|32|[Bijele](https://open.kattis.com/problems/bijele)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/bijele.c)|2021-07-14|07:25:24|
 
 
 
