@@ -24,10 +24,9 @@
 |30|[Tarifa](https://open.kattis.com/problems/tarifa)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tarifa.c)|2021-06-01|10:23:00|
 |22|[Sibice](https://open.kattis.com/problems/sibice)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-01|10:41:42|
 |12|[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heirsdilemma.c)|2021-06-01|19:54:46|
-|20|[Saving For Retirement](https://open.kattis.com/problems/savingforretirement)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/savingforretirement.c)|2021-06-02|11:33:26|
 |29|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-02|11:06:18|
-|15|[Pet](https://open.kattis.com/problems/pet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pet.c)|2021-06-02|17:05:02|
 |20|[Saving For Retirement](https://open.kattis.com/problems/savingforretirement)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/savingforretirement.c)|2021-06-02|11:33:26|
+|15|[Pet](https://open.kattis.com/problems/pet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pet.c)|2021-06-02|17:05:02|
 |14|[Odd Man Out](https://open.kattis.com/problems/oddmanout)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddmanout.c)|2021-06-03|16:48:41|
 |31|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/thelastproblem.c)|2021-06-04|14:04:08|
 |21|[Seven Wonders](https://open.kattis.com/problems/sevenwonders)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sevenwonders.c)|2021-06-11 |16:18:59|
