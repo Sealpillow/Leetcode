@@ -45,4 +45,4 @@
 |29|[Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sibice.c)|2021-06-02|11:06:18|
 |31|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/thelastproblem.c)|2021-06-04|14:04:08|
 |32|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
-|32|[Zamka](https://open.kattis.com/problems/zamka)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/zamka.py)|2021-07-20|12:21:17|
+|32|[Zamka](https://open.kattis.com/problems/zamka)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/c/zamka.py)|2021-07-20|12:21:17|
