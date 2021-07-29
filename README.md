@@ -42,3 +42,5 @@
 |31|[The Last Problem](https://open.kattis.com/problems/thelastproblem)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/thelastproblem.c)|2021-06-04|14:04:08|
 |32|[The Owl and the Fox](https://open.kattis.com/problems/owlandfox)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/owlandfox.c)|2021-06-13|17:25:04|
 |33|[Zamka](https://open.kattis.com/problems/zamka)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/zamka.py)|2021-07-20|12:21:17|
+|32|[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/jackolanternjuxtaposition.c)|2021-07-10|06:02:59|
+
