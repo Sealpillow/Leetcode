@@ -92,4 +92,3 @@
 |85|[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/harshadnumbers.py)|2021-07-28|19:37:20|
 |86|[Forced Choice](https://open.kattis.com/problems/forcedchoice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/forcedchoice.py)|2021-07-29|14:44:27|
 |87|[Final Exam](https://open.kattis.com/problems/finalexam2)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/finalexam2.py)|2021-07-29|15:23:50|
-|88|[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/alphabetspam.py)|2021-07-29|15:41:43|
