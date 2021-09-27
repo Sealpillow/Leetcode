@@ -19,7 +19,7 @@ def main():
         else:
             t-=1
         print(p,k,h,t)
-        for x in range(int(len(user)/3)):
+        for x in range(len(cards)):
             if cards[i] == cards[x]:
                 repeat+=1
                 print(cards[i])
