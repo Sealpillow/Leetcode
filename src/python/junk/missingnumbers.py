@@ -10,10 +10,9 @@ def main():
 
     #get all the missing digits in front on the first element
     diff1= num_list[0]-1
-    for a in range(diff1):
-        if diff1>0:
-            for b in range(1,diff1+1):
-                missing_list.append(b)
+    if diff1>0:
+        for b in range(1,diff1+1):
+            missing_list.append(b)
     
     #get all the missing digits in between the digits after the first element
     for x in range(len(num_list)-1):
