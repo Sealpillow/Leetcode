@@ -55,11 +55,11 @@ int main() {
                     str1[k] = sort[c][k];
                 }
             }
-            int num1 = atoi(str1);
-            int num2 = atoi(str2);
-            total+= num2-num1+1;
-            memset(str1,'\0',5);
-            memset(str2,'\0',5);
+            int num1 = atoi(str1); //1
+            int num2 = atoi(str2); //3
+            total+= num2-num1+1; 
+            memset(str1,'\0',5); // wipe memory of str1
+            memset(str2,'\0',5); // wipe memory of str2
 
         }
         else //string is a digit
