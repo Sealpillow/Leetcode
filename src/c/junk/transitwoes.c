@@ -37,5 +37,13 @@ int main() {
     }
     total += walk[n];
     printf("final:%d",total);
+    if(total<=t)
+    {
+        printf("yes");
+    }
+    else
+    {
+        printf("no");
+    }
     return 0;
 }
