@@ -7,7 +7,7 @@ struct birthday
 {
     char name[20];
     int rating;
-    char date[5];
+    char date[6];
 };
 struct datelist
 {
@@ -18,31 +18,34 @@ struct datelist
 
 
 int main() {
-    struct birthday person[20000];
-    struct datelist p[20000];
-    int n,y=0;
-    char list[20000][20], temp[20];
-    scanf("%d",&n);
-    for(int i=0;i<n;i++)
+    struct birthday person[2001];
+    struct datelist p[2001];
+    int num_of_input,num_of_date=0;
+    char list[2001][11], temp[11];
+    scanf("%d",&num_of_input);
+    //get the list of every person birthdays
+    for(int i=0;i<num_of_input;i++)
     {
+
         scanf("%s %d %s",&person[i].name,&person[i].rating,&person[i].date);
         int count=1;
-        for(int x=0;x<20;x++)
+        for(int x=0;x<num_of_input;x++)
         {
-            if(strcmp(p[x].d,person[i].date)==0)
+            if(strcmp(p[x].d,person[i].date)==0) //if the date has alr been in the list of unique birthdays
             {
                 count=0;
             }
         }
-        if(count==1)
+        if(count==1)//if is not inside, add in into the list and increment index of list
         {
-            strcpy(p[y].d,person[i].date);
-            y++;
+            strcpy(p[num_of_date].d,person[i].date);
+            num_of_date++;
         }
     }
-    for(int i=0;i<n;i++)
+    // to find the max val for each unique bithday
+    for(int i=0;i<num_of_input;i++)
     {
-        for(int x=0;x<20;x++)
+        for(int x=0;x<num_of_input;x++)
         {
             if(strcmp(person[i].date,p[x].d)==0 && person[i].rating>p[x].max)
             {
@@ -53,25 +56,25 @@ int main() {
 
 
     //put all max rating of each date into a list
-    int k=0;
-    for(int x=0;x<n;x++)
+    int num_of_list=0;
+    for(int x=0;x<num_of_date;x++)
     {
-        for(int i=0;i<n;i++)
+        for(int i=0;i<num_of_input;i++)
         {
-            if(p[x].max==person[i].rating)
+            if(p[x].max==person[i].rating) // check thru all the inputs to match the max rating of each date to the name onto the list
             {
-                printf("%d %d\n",p[x].max,person[i].rating);
-                strcpy(list[k],person[i].name);
-                k++;
+                printf("%d %d\n",num_of_list,i);
+                strcpy(list[num_of_list],person[i].name);
+                num_of_list++;
             }
         }
     }
-    printf("k: %d\n",k);
-    for(int i=0;i<k;i++)
+    printf("%d\n",num_of_list);
+    for(int i=0;i<num_of_list;i++)
     {
-        for(int j=i+1;j<k;j++)
+        for(int j=i+1;j<num_of_list;j++)
         {
-            if(strcmp(list[i],list[j])>0)
+            if(strcmp(list[i],list[j])>0) // compare the total sum of each alphabet if one is bigger-> switch
             {
                 strcpy(temp,list[i]);
                 strcpy(list[i],list[j]);
@@ -79,10 +82,9 @@ int main() {
             }
         }
     }
-    for(int i=0;i<k;i++)
+    for(int i=0;i<num_of_list;i++) // print out list of max rating
     {
         printf("%s\n",list[i]);
-
     }
     return 0;
 }
