@@ -7,7 +7,7 @@
 
 int main() {
     char word[15001],*p,alpha,final[7501];
-    fgets(word,15000,stdin);
+    fgets(word,15001,stdin);
     if(p=strchr(word,'\n'))
     {
         *p='\0';
