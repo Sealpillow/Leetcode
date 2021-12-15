@@ -1,10 +1,3 @@
-int main() {
-
-    int n;
-    scanf("%d",&n);
-    printf("%d",rec(n));
-    return 0;
-}
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
