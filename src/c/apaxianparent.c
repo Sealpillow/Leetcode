@@ -5,7 +5,6 @@
 int main()
 {
     int len;
-    double x=0,y=0; // value is big hence double instead of float
     char input1[30],input2[30];
     scanf("%s %s",input1,input2);
     len = strlen(input1);
