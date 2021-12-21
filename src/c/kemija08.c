@@ -3,6 +3,16 @@
 #include <math.h>
 #include <string.h>
 
+/*
+Representation
+char word[] = "zepelepenapa";
+                ^
+                   [------] "lepenapa" moved to the postion at e
+                  
+char word[] = "zelepenapa"; <---result
+                 [------]
+*/
+
 int main()
 {
     int n,len;
