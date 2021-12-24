@@ -38,7 +38,7 @@ int main()
             printf("%d\n",sum);
             index++;
         }
-        if(sum*2%10==0) // if total sum is multiple of 10, it pass, else fail
+        if(sum%10==0) // if total sum is multiple of 10, it pass, else fail
         {
             printf("PASS\n");
         }
