@@ -1,3 +1,4 @@
+// this is the correct way to complete this program. It is done by char, as it is able to store 50 digits.
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
