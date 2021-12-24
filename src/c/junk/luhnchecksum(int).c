@@ -1,3 +1,5 @@
+// this program cant work if the values are very very long 50 digits, but this shows how it works if is integer
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
