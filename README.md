@@ -110,16 +110,16 @@
 |103|[Tower Construction](https://open.kattis.com/problems/tornbygge)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/pythontornbygge.py)|2021-09-29|19:56:01|
 |104|[Left Beehind](https://open.kattis.com/problems/leftbeehind)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/leftbeehind.py)|2021-09-30|05:27:38|
 |105|[Ptice](https://open.kattis.com/problems/ptice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/ptice.py)|2021-09-30|06:16:31|
-|106|[Odd Echo](https://open.kattis.com/problems/oddecho)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/oddecho.c)|2021-12-12|08:13:00|
-|107|[Triangle Area](https://open.kattis.com/problems/triarea)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/triarea.c)|2021-12-12|08:19:22|
-|108|[R2](https://open.kattis.com/problems/r2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/r2.c)|2021-12-12|08:24:44|
-|109|[N-sum][C](https://github.com/Sealpillow/Kattis/blob/main/src/python/nsum.c)|2021-12-12|08:28:12|
-|110|[Digit Swap](https://open.kattis.com/problems/digitswap)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/digitswap.c)|2021-12-12|08:40:25|
-|111|[Homework](https://open.kattis.com/problems/heimavinna)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/heimavinna.c)|2021-12-12|13:44:28|
-|112|[SMIL](https://open.kattis.com/problems/smil)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/smil.c)|2021-12-13|08:17:58|
-|113|[Two-sum](https://open.kattis.com/problems/twosum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/twosum.c)|2021-12-13|08:29:21|
-|114|[Transit Woes](https://open.kattis.com/problems/transitwoes)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/transitwoes.c)|2021-12-13|11:23:16|
-|115|[Speeding](https://open.kattis.com/problems/speeding)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/speeding.c)|2021-12-13|16:51:07|
-|116|[Spavanac](https://open.kattis.com/problems/spavanac)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/spavanac.c)|2021-12-13|17:07:08|
-|117|[Oddities](https://open.kattis.com/problems/oddities)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/oddities.c)|2021-12-13|17:25:46|
+|106|[Odd Echo](https://open.kattis.com/problems/oddecho)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddecho.c)|2021-12-12|08:13:00|
+|107|[Triangle Area](https://open.kattis.com/problems/triarea)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/triarea.c)|2021-12-12|08:19:22|
+|108|[R2](https://open.kattis.com/problems/r2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/r2.c)|2021-12-12|08:24:44|
+|110|[N-sum](https://open.kattis.com/problems/nsum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/nsum.c)|2021-12-12|08:28:12|
+|110|[Digit Swap](https://open.kattis.com/problems/digitswap)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/digitswap.c)|2021-12-12|08:40:25|
+|111|[Homework](https://open.kattis.com/problems/heimavinna)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/heimavinna.c)|2021-12-12|13:44:28|
+|112|[SMIL](https://open.kattis.com/problems/smil)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/smil.c)|2021-12-13|08:17:58|
+|113|[Two-sum](https://open.kattis.com/problems/twosum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/twosum.c)|2021-12-13|08:29:21|
+|114|[Transit Woes](https://open.kattis.com/problems/transitwoes)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/transitwoes.c)|2021-12-13|11:23:16|
+|115|[Speeding](https://open.kattis.com/problems/speeding)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/speeding.c)|2021-12-13|16:51:07|
+|116|[Spavanac](https://open.kattis.com/problems/spavanac)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/spavanac.c)|2021-12-13|17:07:08|
+|117|[Oddities](https://open.kattis.com/problems/oddities)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddities.c)|2021-12-13|17:25:46|
 
