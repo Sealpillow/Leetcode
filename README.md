@@ -96,14 +96,14 @@
 |89|[Encoded Message](https://open.kattis.com/problems/encodedmessage)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/encodedmessage.py)|2021-08-06|14:23:14|
 |90|[Detailed Differences](https://open.kattis.com/problems/detaileddifferences)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/detaileddifferences.py)|2021-08-06|14:40:29|
 |91|[Cetvrta](https://open.kattis.com/problems/cetvrta)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/cetvrta.py)|2021-08-06|20:22:52|
-|87|[Reverse](https://open.kattis.com/problems/ofugsnuid)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/ofugsnuid.py)|2021-08-30|01:19:18|
-|87|[Triple Texting](https://open.kattis.com/problems/tripletexting)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/tripletexting.py)|2021-08-30|02:03:50|
-|87|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/hissingmicrophone.py)|2021-09-26|08:49:46|
-|87|[License to Launch](https://open.kattis.com/problems/licensetolaunch)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/licensetolaunch.py)|2021-09-27|21:37:18|
-|87|[Karte](https://open.kattis.com/problems/karte)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/karte.py)|2021-09-27|22:42:58|
-|87|[Odd Gnome](https://open.kattis.com/problems/oddgnome)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/oddgnome.py)|2021-09-28|07:27:24|
-|87|[Skener](https://open.kattis.com/problems/skener)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/skener.py)|2021-09-28|07:57:12|
-|87|[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fiftyshades.py)|2021-09-28|16:33:23|
-|87|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/missingnumbers.py)|2021-09-28|18:16:35|
-|87|[Mirror Images](https://open.kattis.com/problems/mirror)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/mirror.py)|2021-09-29|15:18:35|
+|92|[Reverse](https://open.kattis.com/problems/ofugsnuid)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/ofugsnuid.py)|2021-08-30|01:19:18|
+|93|[Triple Texting](https://open.kattis.com/problems/tripletexting)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/tripletexting.py)|2021-08-30|02:03:50|
+|94|[Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/hissingmicrophone.py)|2021-09-26|08:49:46|
+|95|[License to Launch](https://open.kattis.com/problems/licensetolaunch)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/licensetolaunch.py)|2021-09-27|21:37:18|
+|96|[Karte](https://open.kattis.com/problems/karte)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/karte.py)|2021-09-27|22:42:58|
+|97|[Odd Gnome](https://open.kattis.com/problems/oddgnome)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/oddgnome.py)|2021-09-28|07:27:24|
+|98|[Skener](https://open.kattis.com/problems/skener)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/skener.py)|2021-09-28|07:57:12|
+|99|[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fiftyshades.py)|2021-09-28|16:33:23|
+|100|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/missingnumbers.py)|2021-09-28|18:16:35|
+|101|[Mirror Images](https://open.kattis.com/problems/mirror)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/mirror.py)|2021-09-29|15:18:35|
 
