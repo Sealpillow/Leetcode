@@ -107,3 +107,8 @@
 |100|[Missing Numbers](https://open.kattis.com/problems/missingnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/missingnumbers.py)|2021-09-28|18:16:35|
 |101|[Mirror Images](https://open.kattis.com/problems/mirror)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/mirror.py)|2021-09-29|15:18:35|
 
+|101|[Soylent](https://open.kattis.com/problems/soylent)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/soylent.py)|2021-09-29|19:24:03|
+|101|[Tower Construction](https://open.kattis.com/problems/tornbygge)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/pythontornbygge.py)|2021-09-29|19:56:01|
+|101|[Left Beehind](https://open.kattis.com/problems/leftbeehind)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/leftbeehind.py)|2021-09-30|05:27:38|
+|101|[Ptice](https://open.kattis.com/problems/ptice)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/ptice.py)|2021-09-30|06:16:31|
+
