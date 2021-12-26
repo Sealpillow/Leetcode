@@ -123,4 +123,22 @@
 |116|[Spavanac](https://open.kattis.com/problems/spavanac)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/spavanac.c)|2021-12-13|17:07:08|
 |117|[Oddities](https://open.kattis.com/problems/oddities)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddities.c)|2021-12-13|17:25:46|
 |118|[Kornislav](https://open.kattis.com/problems/kornislav)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/kornislav.py)|2021-12-13|18:07:22|
+|119|[Grading](https://open.kattis.com/problems/grading)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/grading.c)|2021-12-13|18:18:32|
+|120|[DRM Messages](https://open.kattis.com/problems/drmmessages)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/drmmessages.c)|2021-12-14|07:37:28|
+|121|[Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fodelsedagsmemorisering.c)|2021-12-14|16:23:37|
+|122|[Parking](https://open.kattis.com/problems/parking2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/parking2.c)|2021-12-15|05:55:56|
+|123|[Building Pyramids](https://open.kattis.com/problems/pyramids)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pyramids.c)|2021-12-15|07:03:18|
+|124|[A Real Challenge](https://open.kattis.com/problems/areal)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/areal.c)|2021-12-15|14:14:23|
+|125|[Hangman](https://open.kattis.com/problems/hangman)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/hangman.py)|2021-12-18|13:01:56|
+|126|[Lost Lineup](https://open.kattis.com/problems/lostlineup)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lostlineup.c)|2021-12-18|13:59:31|
+|127|[Unlock Pattern](https://open.kattis.com/problems/unlockpattern)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/unlockpattern.c)|2021-12-18|17:53:49|
+|128|[Knot Knowledge](https://open.kattis.com/problems/knotknowledge)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/knotknowledge.c)|2021-12-19|10:55:12|
+|129|[Identifying Map Tiles](https://open.kattis.com/problems/maptiles2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/maptiles2.c)|2021-12-19|17:58:28|
+|130|[Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/apaxianparent.c)|2021-12-20|08:20:56|
+
+|131|[Volim](https://open.kattis.com/problems/volim)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/volim.c)|2021-12-20|08:20:56|
+|132|[Kemija](https://open.kattis.com/problems/kemija08)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kemija08.c)|2021-12-21|06:36:27|
+|133|[Falling Apart](https://open.kattis.com/problems/fallingapart)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fallingapart.py)[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fallingapart.c)|2021-12-21|11:23:18|
+
+
 
