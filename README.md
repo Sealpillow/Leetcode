@@ -122,4 +122,5 @@
 |115|[Speeding](https://open.kattis.com/problems/speeding)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/speeding.c)|2021-12-13|16:51:07|
 |116|[Spavanac](https://open.kattis.com/problems/spavanac)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/spavanac.c)|2021-12-13|17:07:08|
 |117|[Oddities](https://open.kattis.com/problems/oddities)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/oddities.c)|2021-12-13|17:25:46|
+|118|[Kornislav](https://open.kattis.com/problems/kornislav)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/kornislav.py)|2021-12-13|18:07:22|
 
