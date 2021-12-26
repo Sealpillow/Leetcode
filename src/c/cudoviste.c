@@ -11,7 +11,7 @@
 
 2x2 monster truck positions
 count the number of space/car/building and check if monster truck can park on it
-how many car it will crush
+by using the for loop of a,b
 #. .. .#
 .. .x x.
 
