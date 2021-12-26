@@ -146,4 +146,4 @@
 |139|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mixedfractions.c)|2021-12-24|19:03:10|
 |140|[Secure Doors](https://open.kattis.com/problems/securedoors)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/securedoors.c)|2021-12-25|09:07:10|
 |141|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/plantingtrees.c)|2021-12-25|12:48:39|
-|142|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cudoviste)|2021-12-24|12:48:39|
+|142|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cudoviste.c)|2021-12-24|12:48:39|
