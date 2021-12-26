@@ -142,4 +142,8 @@
 |132|[Mjehuric](https://open.kattis.com/problems/mjehuric)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mjehuric.c)|2021-12-22|11:10:54|
 |132|[Skocimis](https://open.kattis.com/problems/skocimis)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skocimis.c)|2021-12-23|20:05:05|
 |132|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/luhnchecksum.c)|2021-12-24|12:48:39|
-
+|132|[Tri](https://open.kattis.com/problems/tri)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tri.c)|2021-12-24|16:31:19|
+|132|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mixedfractions.c)|2021-12-24|19:03:10|
+|132|[Secure Doors](https://open.kattis.com/problems/securedoors)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/securedoors.c)|2021-12-25|09:07:10|
+|132|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/plantingtrees.c)|2021-12-25|12:48:39|
+|132|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lcudoviste.c)|2021-12-24|12:48:39|
