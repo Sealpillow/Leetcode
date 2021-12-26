@@ -113,7 +113,7 @@
 |106|[Odd Echo](https://open.kattis.com/problems/oddecho)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/oddecho.c)|2021-12-12|08:13:00|
 |107|[Triangle Area](https://open.kattis.com/problems/triarea)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/triarea.c)|2021-12-12|08:19:22|
 |108|[R2](https://open.kattis.com/problems/r2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/r2.c)|2021-12-12|08:24:44|
-|109|[N-sum](https://open.kattis.com/problems/nsum|.[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/nsum.c)|2021-12-12|08:28:12|
+|109|[N-sum][C](https://github.com/Sealpillow/Kattis/blob/main/src/python/nsum.c)|2021-12-12|08:28:12|
 |110|[Digit Swap](https://open.kattis.com/problems/digitswap)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/digitswap.c)|2021-12-12|08:40:25|
 |111|[Homework](https://open.kattis.com/problems/heimavinna)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/heimavinna.c)|2021-12-12|13:44:28|
 |112|[SMIL](https://open.kattis.com/problems/smil)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/smil.c)|2021-12-13|08:17:58|
