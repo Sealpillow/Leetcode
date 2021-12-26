@@ -138,12 +138,12 @@
 |131|[Volim](https://open.kattis.com/problems/volim)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/volim.c)|2021-12-20|08:20:56|
 |132|[Kemija](https://open.kattis.com/problems/kemija08)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kemija08.c)|2021-12-21|06:36:27|
 |133|[Falling Apart](https://open.kattis.com/problems/fallingapart)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fallingapart.py),[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fallingapart.c)|2021-12-21|11:23:18|
-|132|[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/symmetricorder.c)|2021-12-22|08:13:10|
-|132|[Mjehuric](https://open.kattis.com/problems/mjehuric)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mjehuric.c)|2021-12-22|11:10:54|
-|132|[Skocimis](https://open.kattis.com/problems/skocimis)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skocimis.c)|2021-12-23|20:05:05|
-|132|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/luhnchecksum.c)|2021-12-24|12:48:39|
-|132|[Tri](https://open.kattis.com/problems/tri)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tri.c)|2021-12-24|16:31:19|
-|132|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mixedfractions.c)|2021-12-24|19:03:10|
-|132|[Secure Doors](https://open.kattis.com/problems/securedoors)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/securedoors.c)|2021-12-25|09:07:10|
-|132|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/plantingtrees.c)|2021-12-25|12:48:39|
-|132|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lcudoviste.c)|2021-12-24|12:48:39|
+|134|[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/symmetricorder.c)|2021-12-22|08:13:10|
+|135|[Mjehuric](https://open.kattis.com/problems/mjehuric)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mjehuric.c)|2021-12-22|11:10:54|
+|136|[Skocimis](https://open.kattis.com/problems/skocimis)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skocimis.c)|2021-12-23|20:05:05|
+|137|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/luhnchecksum.c)|2021-12-24|12:48:39|
+|138|[Tri](https://open.kattis.com/problems/tri)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tri.c)|2021-12-24|16:31:19|
+|139|[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mixedfractions.c)|2021-12-24|19:03:10|
+|140|[Secure Doors](https://open.kattis.com/problems/securedoors)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/securedoors.c)|2021-12-25|09:07:10|
+|141|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/plantingtrees.c)|2021-12-25|12:48:39|
+|142|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/lcudoviste.c)|2021-12-24|12:48:39|
