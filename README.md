@@ -137,7 +137,9 @@
 |130|[Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/apaxianparent.c)|2021-12-20|08:20:56|
 |131|[Volim](https://open.kattis.com/problems/volim)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/volim.c)|2021-12-20|08:20:56|
 |132|[Kemija](https://open.kattis.com/problems/kemija08)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kemija08.c)|2021-12-21|06:36:27|
-|133|[Falling Apart](https://open.kattis.com/problems/fallingapart)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/fallingapart.py)[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fallingapart.c)|2021-12-21|11:23:18|
-
-
+|133|[Falling Apart](https://open.kattis.com/problems/fallingapart)|[Python,](https://github.com/Sealpillow/Kattis/blob/main/src/python/fallingapart.py)[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/fallingapart.c)|2021-12-21|11:23:18|
+|132|[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/symmetricorder.c)|2021-12-22|08:13:10|
+|132|[Mjehuric](https://open.kattis.com/problems/mjehuric)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mjehuric.c)|2021-12-22|11:10:54|
+|132|[Skocimis](https://open.kattis.com/problems/skocimis)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skocimis.c)|2021-12-23|20:05:05|
+|132|[Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/luhnchecksum.c)|2021-12-24|12:48:39|
 
