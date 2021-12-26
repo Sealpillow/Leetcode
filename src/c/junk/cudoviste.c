@@ -2,7 +2,25 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+/*
+4 4
+#..#
+..X.
+..X.
+#XX#
 
+2x2 monster truck positions
+count the number of space/car/building and check if monster truck can park on it
+how many car it will crush
+#. .. .#
+.. .x x.
+
+.. .x x.
+.. .x x.
+
+.. .x x.
+#x xx x#
+*/
 
 int main()
 {
@@ -27,7 +45,6 @@ int main()
         putchar('\n');
     }*/
 
-    //sort largest to smallest
     for(int i=0;i<r-1;i++) //row
     {
         for(int j=0;j<c-1;j++) // col
