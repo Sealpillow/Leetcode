@@ -149,4 +149,6 @@
 |142|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cudoviste.c)|2021-12-26|08:59:00|
 |143|[Zanzibar](https://open.kattis.com/problems/zanzibar)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/zanzibar.c)|2021-12-26|16:49:44|
 |144|[Railroad](https://open.kattis.com/problems/railroad2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/railroad2.c)|2021-12-26|19:34:51|
-|145|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sumsquareddigits.c)|2021-12-26|19:34:51|
+|145|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sumsquareddigits.c)|2021-12-26|11:28:11|
+|146|[Tai's formula](https://open.kattis.com/problems/taisformula)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/taisformula.c)|2021-12-26|04:10:51|
+
