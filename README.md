@@ -152,5 +152,5 @@
 |145|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sumsquareddigits.c)|2021-12-26|11:28:11|
 |146|[Tai's formula](https://open.kattis.com/problems/taisformula)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/taisformula.c)|2021-12-26|04:10:51|
 |147|[Tetration](https://open.kattis.com/problems/tetration)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tetration.c)|2021-12-26|10:18:30|
-|147|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/python/synchronizinglists.py)|2021-12-26|10:18:30|
+|148|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/synchronizinglists.py)|2021-12-26|10:18:30|
 
