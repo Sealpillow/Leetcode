@@ -36,7 +36,7 @@ int main()
     double grid_dist= 3.14159265359*60/28,time;
     //each pick up will take 1 sec, so how many alpha = + number of sec
     char user[200],*p;
-    int grids,n,diff;
+    int grids,n,diff,index,prev_index,len;
     scanf("%d",&n);
     getchar();
     for(int i=0;i<n;i++)
@@ -48,8 +48,8 @@ int main()
             *p='\0';
         }
         grids=0;
-        int len = strlen(user);
-        int index, prev_index= get_index(user[0]);
+        len = strlen(user);
+        prev_index= get_index(user[0]);
         for(int j=1;j<len;j++)
         {
             index = get_index(user[j]);
