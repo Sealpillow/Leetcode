@@ -86,6 +86,7 @@ int main()
             {
                printf("%d ",weak[i]);
             }
+            //reset all the variable
             y=0;
             memset(list,'\0',21);
             memset(input,'\0',21);
