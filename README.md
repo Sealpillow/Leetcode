@@ -153,4 +153,6 @@
 |146|[Tai's formula](https://open.kattis.com/problems/taisformula)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/taisformula.c)|2021-12-26|04:10:51|
 |147|[Tetration](https://open.kattis.com/problems/tetration)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tetration.c)|2021-12-26|10:18:30|
 |148|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/synchronizinglists.py)|2021-12-26|10:18:30|
-|148|[Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/racingalphabet.c)|2021-12-26|10:18:30|
+|149|[Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/racingalphabet.c)|2021-12-26|10:18:30|
+|150|[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/weakvertices.c)|2021-12-26|10:18:30|
+
