@@ -44,10 +44,6 @@ int check(int arr[], int user[][21],int len) //to find connections
     return -1; // none of the pairs are connected hence no triangle
 }
 
-
-
-
-
 int main()
 {
     int n,input[21][21],list[21],weak[21],index,x,y=0;
@@ -85,13 +81,16 @@ int main()
                     weak[y]=i;
                     y++;
                 }
-                memset(list,'\0',21);
             }
             for(int i=0;i<y;i++)
             {
                printf("%d ",weak[i]);
             }
+            y=0;
+            memset(list,'\0',21);
+            memset(input,'\0',21);
+            memset(weak,'\0',21);
+            putchar('\n');
         }
-
     }
 }
