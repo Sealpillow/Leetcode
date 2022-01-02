@@ -156,4 +156,5 @@
 |149|[Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/racingalphabet.c)|2021-12-26|10:18:30|
 |150|[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/weakvertices.c)|2021-12-26|10:18:30|
 |151|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/estimatingtheareaofacircle.c)|2021-12-26|10:18:30|
+|152|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/drunkvigenere.c)|2021-12-26|10:18:30|
 
