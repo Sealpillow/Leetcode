@@ -148,13 +148,13 @@
 |141|[Planting Trees](https://open.kattis.com/problems/plantingtrees)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/plantingtrees.c)|2021-12-25|12:48:39|
 |142|[Cudoviste](https://open.kattis.com/problems/cudoviste)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cudoviste.c)|2021-12-26|08:59:00|
 |143|[Zanzibar](https://open.kattis.com/problems/zanzibar)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/zanzibar.c)|2021-12-26|16:49:44|
-|144|[Railroad](https://open.kattis.com/problems/railroad2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/railroad2.c)|2021-12-26|19:34:51|
-|145|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sumsquareddigits.c)|2021-12-26|11:28:11|
-|146|[Tai's formula](https://open.kattis.com/problems/taisformula)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/taisformula.c)|2021-12-26|04:10:51|
-|147|[Tetration](https://open.kattis.com/problems/tetration)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tetration.c)|2021-12-26|10:18:30|
-|148|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/synchronizinglists.py)|2021-12-26|10:18:30|
-|149|[Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/racingalphabet.c)|2021-12-26|10:18:30|
-|150|[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/weakvertices.c)|2021-12-26|10:18:30|
-|151|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/estimatingtheareaofacircle.c)|2021-12-26|10:18:30|
-|152|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/drunkvigenere.c)|2021-12-26|10:18:30|
+|144|[Railroad](https://open.kattis.com/problems/railroad2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/railroad2.c)|2021-12-27|19:34:51|
+|145|[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sumsquareddigits.c)|2021-12-28|11:28:11|
+|146|[Tai's formula](https://open.kattis.com/problems/taisformula)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/taisformula.c)|2021-12-29|04:10:51|
+|147|[Tetration](https://open.kattis.com/problems/tetration)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tetration.c)|2021-12-29|10:18:30|
+|148|[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/synchronizinglists.py)|2021-12-29|10:18:30|
+|149|[Racing Around the Alphabet](https://open.kattis.com/problems/racingalphabet)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/racingalphabet.c)|2021-12-31|10:18:30|
+|150|[Weak Vertices](https://open.kattis.com/problems/weakvertices)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/weakvertices.c)|2022-01-01|10:18:30|
+|151|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/estimatingtheareaofacircle.c)|2022-01-01|10:18:30|
+|152|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/drunkvigenere.c)|2022-01-02|10:18:30|
 
