@@ -158,5 +158,6 @@
 |151|[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/estimatingtheareaofacircle.c)|2022-01-01|10:11:48|
 |152|[Drunk Vigenère](https://open.kattis.com/problems/drunkvigenere)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/drunkvigenere.c)|2022-01-02|16:07:17|
 |153|[Cinema Crowds 2](https://open.kattis.com/problems/cinema2)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cinema2.c)|2022-01-03|14:26:15|
-|153|[Cinema Crowds](https://open.kattis.com/problems/cinema)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cinema.c)|2022-01-03|15:16:44|
+|154|[Cinema Crowds](https://open.kattis.com/problems/cinema)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cinema.c)|2022-01-03|15:16:44|
+|155|[Red Rover](https://open.kattis.com/problems/redrover)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/redrover.py)|2022-01-04|12:05:47|
 
