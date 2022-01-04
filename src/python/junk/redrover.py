@@ -20,8 +20,8 @@ final = ""
 macro = ""
 user = input()
 n = ceil(len(user)/2)
-min_char =100
-for i in range(1,n):  # increase range [1:2]
+min_char = 100
+for i in range(1, n):  # increase range [1:2]
     m = 0
     for j in range(n):
         # using slicing method
@@ -34,6 +34,6 @@ for i in range(1,n):  # increase range [1:2]
         num = len(final) + 3
         print(macro+" "+final)
         print(num)
-        if num<min_char:
+        if num < min_char:
             min_char = num
 print(min_char)
