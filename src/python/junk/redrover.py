@@ -11,16 +11,13 @@ EEN     WNMWMME
 10
 NEEN    WMWEEME
 10
-WNEEN   no final as there is no m replace in the user input
-13
-WNEENW  no final as there is no m replace in the user input
-13
 
 10  <-print the least number of char used
 
 """
 m = 1  # 1 occurrence
 final = ""
+macro = ""
 user = input()
 n = ceil(len(user)/2)
 min_char =100
@@ -38,8 +35,5 @@ for i in range(1,n):  # increase range [1:2]
         print(macro+" "+final)
         print(num)
         if num<min_char:
-            min_char= num
-    else:  # no macro used
-        print(macro+ " ")
-        print(len(user))
+            min_char = num
 print(min_char)
