@@ -1,15 +1,22 @@
 from math import*
 """
-EEEEEEEEE
+WNEENWEENEENE <user input
+
 macro     final
-E        MMMMMMMMM
-12
-EE       MMMME
-8
-EEE      MMM
-6
-EEEE     MME
-6
+E       WNMMNWMMNMMNM
+16
+NE      WMENWEEMEM
+13
+EEN     WNMWMME
+10
+NEEN    WMWEEME
+10
+WNEEN   no final as there is no m replace in the user input
+13
+WNEENW  no final as there is no m replace in the user input
+13
+
+10  <-print the least number of char used
 
 """
 m = 1  # 1 occurrence
