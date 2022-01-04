@@ -20,9 +20,9 @@ final = ""
 macro = ""
 user = input()
 min_char = len(user)  # set max length of char to min_char
+# even if length is 1, it will not go thru loop and just print 1, as it is the smallest possible
 n = ceil(min_char/2)
-for i in range(1, n+1):  # in case where input: E, range(1,1+1) it can go into loop
-    # i is to increase range [1:2]... [1:9]->increase array length to check for repeats in user
+for i in range(1, n):  # i is to increase range [1:2]... [1:9]->increase array length to check for repeats in user
     m = 0  # reset max occurrence of a string length
     for j in range(n):  # j-change position [0:1]..[1:2]..[5:8] is to move to every position in string
         # using slicing method
