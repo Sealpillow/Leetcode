@@ -22,7 +22,7 @@ user = input()
 n = ceil(len(user)/2)
 min_char =100
 for i in range(1,n):  # increase range [1:2]
-    m=0
+    m = 0
     for j in range(n):
         # using slicing method
         count = user.count(user[j:j+i])  # to count number of occurrence of user[j:j+1] in user
