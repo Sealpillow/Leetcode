@@ -12,6 +12,19 @@ find the multiple this enable to create an equation
 num_a= multipleB;
 num_b = multipleA+multipleB;
 
+Is also the same as saying the number of A's, you minus 1 A plus 1 B
+and number of B's you plus 1 A, hence
+for(int j=0;j<multipleA;j++)
+{
+    num_a--;
+    num_b++;
+}
+for(int j=0;j<multipleB;j++)
+{
+    num_a++;
+}
+
+instead of the previous 2 equations
 */
 
 int main()
