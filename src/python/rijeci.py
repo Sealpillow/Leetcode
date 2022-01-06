@@ -8,6 +8,18 @@ find the multiple this enable to create an equation
 num_a= multipleB;
 num_b = multipleA+multipleB;
 
+Is also the same as saying the number of A's, you minus 1 A plus 1 B
+and number of B's you plus 1 A, hence
+for i in range(multipleA)
+{
+    num_a--;
+    num_b++;
+}
+for i in range(multipleB)
+{
+    num_a++;
+}
+instead of the previous 2 equations
 """
 
 num = int(input())
