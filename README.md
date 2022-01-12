@@ -161,3 +161,4 @@
 |154|[Cinema Crowds](https://open.kattis.com/problems/cinema)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cinema.c)|2022-01-03|15:16:44|
 |155|[Red Rover](https://open.kattis.com/problems/redrover)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/redrover.py)|2022-01-04|12:05:47|
 |156|[Riječi](https://open.kattis.com/problems/rijeci)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/rijeci.py),[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/rijeci.c)|2022-01-05|21:06:45|
+|157|[Sok](https://open.kattis.com/problems/sok)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sok.py),[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sok.c)|2022-01-12|20:45:45|
