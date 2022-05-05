@@ -162,4 +162,5 @@
 |155|[Red Rover](https://open.kattis.com/problems/redrover)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/redrover.py)|2022-01-04|12:05:47|
 |156|[Riječi](https://open.kattis.com/problems/rijeci)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/rijeci.py),[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/rijeci.c)|2022-01-05|21:06:45|
 |157|[Sok](https://open.kattis.com/problems/sok)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sok.py),[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sok.c)|2022-01-12|20:45:45|
-|157|[Betting](https://open.kattis.com/problems/betting)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/betting.c)|2022-01-12|02:07:45|
+|158|[Betting](https://open.kattis.com/problems/betting)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/betting.c)|2022-01-12|02:07:45|
+|159|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/whichisgreater.c)|2022-01-12|02:13:45|
