@@ -187,10 +187,18 @@
 |179|[Breaking Branches](https://open.kattis.com/problems/breakingbranches)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/breakingbranches.c)|2022-05-16|17:07:41|
 |180|[Stacking Cups](https://open.kattis.com/problems/cups)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cups.c)|2022-05-16|18:44:53|
 |181|[Mult!](https://open.kattis.com/problems/mult)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mult.c)|2022-05-11|09:28:41|
-
-|182|[Kleptography](https://open.kattis.com/problems/kleptography)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kleptography.c)|2022-05-11|09:28:41|
-|183|[Kleptography](https://open.kattis.com/problems/kleptography)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kleptography.c)|2022-05-11|09:28:41|
-
+|182|[Joint Jog Jam](https://open.kattis.com/problems/jointjogjam)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/jointjogjam.c)|2022-05-18|09:34:44|
+|183|[Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/hangingout.c)|2022-05-18|12:42:02|
+|184|[Early Winter](https://open.kattis.com/problems/earlywinter)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/earlywinter.c)|2022-05-18|16:04:43|
+|185|[Bounding Robots](https://open.kattis.com/problems/boundingrobots)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/boundingrobots.c)|2022-05-19|06:32:20|
+|186|[Different Distances](https://open.kattis.com/problems/differentdistances)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/differentdistances.c)|2022-05-19|08:01:47|
+|187|[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/greedilyincreasing.c)|2022-05-19|17:20:11|
+|188|[Tram](https://open.kattis.com/problems/tram)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tram.c)|2022-05-19|19:11:03|
+|189|[ToLower](https://open.kattis.com/problems/tolower)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/tolower.c)|2022-05-19|20:45:17|
+|190|[99 Problems](https://open.kattis.com/problems/99problems)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/99problems.c)|2022-05-20|20:48:40|
+|191|[Popularity Contest](https://open.kattis.com/problems/popularitycontest)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/popularitycontest.c)|2022-05-21|19:00:18|
+|192|[Flying Safely](https://open.kattis.com/problems/flyingsafely)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/flyingsafely.c)|2022-05-21|19:53:37|
+|193|[Just a Minute](https://open.kattis.com/problems/justaminute)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/justaminute.c)|2022-05-29|17:46:07|
 
 
 
