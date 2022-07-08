@@ -164,7 +164,6 @@
 |157|[Sok](https://open.kattis.com/problems/sok)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sok.py),[ C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sok.c)|2022-01-12|20:45:45|
 |158|[Betting](https://open.kattis.com/problems/betting)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/betting.c)|2022-05-05|20:05:51|
 |159|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/whichisgreater.c)|2022-05-05|20:12:22|
-
 |160|[Finding An A](https://open.kattis.com/problems/findingana)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/findingana.c)|2022-05-05|20:57:18|
 |161|[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/countthevowels.c)|2022-05-05|21:14:17|
 |162|[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/eyeofsauron.c)|2022-05-06|08:47:26|
@@ -199,6 +198,7 @@
 |191|[Popularity Contest](https://open.kattis.com/problems/popularitycontest)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/popularitycontest.c)|2022-05-21|19:00:18|
 |192|[Flying Safely](https://open.kattis.com/problems/flyingsafely)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/flyingsafely.c)|2022-05-21|19:53:37|
 |193|[Just a Minute](https://open.kattis.com/problems/justaminute)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/justaminute.c)|2022-05-29|17:46:07|
-
-
-
+|194|[Coloring Socks](https://open.kattis.com/problems/color)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/color.py)|2022-05-30|22:18:09|
+|195|[Paul Eigon](https://open.kattis.com/problems/pauleigon)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pauleigon.c)|2022-05-30|22:34:53|
+|196|[Santa Klas](https://open.kattis.com/problems/santaklas)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/santaklas.c)|2022-05-31|22:03:02|
+|197|[Bus Numbers](https://open.kattis.com/problems/busnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/busnumbers.py)|2022-06-01|09:31:57|
