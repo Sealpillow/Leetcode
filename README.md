@@ -172,3 +172,18 @@
 |164|[GCVWR](https://open.kattis.com/problems/gcvwr)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/gcvwr.c)|2022-05-06|10:55:19|
 |165|[Skru op!](https://open.kattis.com/problems/skruop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skruop.c)|2022-05-06|11:23:12|
 |166|[Cpr-nummer](https://open.kattis.com/problems/cprnummer)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cprnummer.c)|2022-05-06|16:37:55|
+|167|[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/ultimatebinarywatch.c)|2022-05-06|19:53:33|
+|168|[Square Peg](https://open.kattis.com/problems/squarepeg)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/squarepeg.c)|2022-05-08|18:06:55|
+|169|[Eligibility](https://open.kattis.com/problems/eligibility)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/eligibility.c)|2022-05-09|10:58:31|
+|170|[Counting Clauses](https://open.kattis.com/problems/countingclauses)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/countingclauses.c)|2022-05-09|12:42:26|
+|171|[Rectangle Area](https://open.kattis.com/problems/rectanglearea)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/rectanglearea.c)|2022-05-09|13:04:41|
+|172|[Zoom](https://open.kattis.com/problems/zoom)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/zoom.c)|2022-05-09|20:31:24|
+|173|[Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/scalingrecipe.c)|2022-05-10|11:05:41|
+|174|[Arrangement](https://open.kattis.com/problems/upprodun)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/upprodun.c)|2022-05-10|12:09:05|
+|175|[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/easiest.c)|2022-05-10|18:17:21|
+
+|176|[Cpr-nummer](https://open.kattis.com/problems/cprnummer)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cprnummer.c)|2022-05-06|16:37:55|
+
+
+
+
