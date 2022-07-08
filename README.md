@@ -181,8 +181,15 @@
 |173|[Scaling Recipe](https://open.kattis.com/problems/scalingrecipe)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/scalingrecipe.c)|2022-05-10|11:05:41|
 |174|[Arrangement](https://open.kattis.com/problems/upprodun)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/upprodun.c)|2022-05-10|12:09:05|
 |175|[The Easiest Problem Is This One](https://open.kattis.com/problems/easiest)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/easiest.c)|2022-05-10|18:17:21|
+|176|[Kleptography](https://open.kattis.com/problems/kleptography)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kleptography.c)|2022-05-11|09:28:41|
+|177|[T9 Spelling](https://open.kattis.com/problems/t9spelling)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/t9spelling.c)|2022-05-15|10:48:56|
+|178|[Code to Save Lives](https://open.kattis.com/problems/codetosavelives)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/codetosavelives.c)|2022-05-15|19:27:38|
+|179|[Breaking Branches](https://open.kattis.com/problems/breakingbranches)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/breakingbranches.c)|2022-05-16|17:07:41|
+|180|[Stacking Cups](https://open.kattis.com/problems/cups)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cups.c)|2022-05-16|18:44:53|
+|181|[Mult!](https://open.kattis.com/problems/mult)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/mult.c)|2022-05-11|09:28:41|
 
-|176|[Cpr-nummer](https://open.kattis.com/problems/cprnummer)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cprnummer.c)|2022-05-06|16:37:55|
+|182|[Kleptography](https://open.kattis.com/problems/kleptography)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kleptography.c)|2022-05-11|09:28:41|
+|183|[Kleptography](https://open.kattis.com/problems/kleptography)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/kleptography.c)|2022-05-11|09:28:41|
 
 
 
