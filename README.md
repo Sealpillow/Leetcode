@@ -164,3 +164,12 @@
 |157|[Sok](https://open.kattis.com/problems/sok)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sok.py),[ C](https://github.com/Sealpillow/Kattis/blob/main/src/c/sok.c)|2022-01-12|20:45:45|
 |158|[Betting](https://open.kattis.com/problems/betting)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/betting.c)|2022-05-05|20:05:51|
 |159|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/whichisgreater.c)|2022-05-05|20:12:22|
+
+|160|[Finding An A](https://open.kattis.com/problems/findingana)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/findingana.c)|2022-05-05|20:57:18|
+|161|[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/countthevowels.c)|2022-05-05|21:14:17|
+|162|[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/eyeofsauron.c)|2022-05-06|08:47:26|
+|163|[Double Password](https://open.kattis.com/problems/doublepassword)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/doublepassword.c)|2022-05-06|09:42:29|
+|164|[GCVWR](https://open.kattis.com/problems/gcvwr)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/gcvwr.c)|2022-05-06|10:55:19|
+|165|[Skru op!](https://open.kattis.com/problems/skruop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skruop.c)|2022-05-06|11:23:12|
+
+|166|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/whichisgreater.c)|2022-05-06|20:12:22|
