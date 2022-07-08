@@ -171,5 +171,4 @@
 |163|[Double Password](https://open.kattis.com/problems/doublepassword)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/doublepassword.c)|2022-05-06|09:42:29|
 |164|[GCVWR](https://open.kattis.com/problems/gcvwr)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/gcvwr.c)|2022-05-06|10:55:19|
 |165|[Skru op!](https://open.kattis.com/problems/skruop)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/skruop.c)|2022-05-06|11:23:12|
-
-|166|[Which is Greater?](https://open.kattis.com/problems/whichisgreater)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/whichisgreater.c)|2022-05-06|20:12:22|
+|166|[Cpr-nummer](https://open.kattis.com/problems/cprnummer)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/cprnummer.c)|2022-05-06|16:37:55|
