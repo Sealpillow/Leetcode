@@ -202,3 +202,9 @@
 |195|[Paul Eigon](https://open.kattis.com/problems/pauleigon)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/pauleigon.c)|2022-05-30|22:34:53|
 |196|[Santa Klas](https://open.kattis.com/problems/santaklas)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/santaklas.c)|2022-05-31|22:03:02|
 |197|[Bus Numbers](https://open.kattis.com/problems/busnumbers)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/busnumbers.py)|2022-06-01|09:31:57|
+|198|Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/teacherevaluation.c)|2022-06-01|23:08:11|
+|199|[A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/pikemaneasy.py)|2022-06-03|00:05:01|
+|200|[Growling Gears](https://open.kattis.com/problems/growlinggears)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/growlinggears.c)|2022-06-03|21:32:51|
+
+
+
