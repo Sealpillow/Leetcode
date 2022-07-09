@@ -205,6 +205,22 @@
 |198|Teacher Evaluation](https://open.kattis.com/problems/teacherevaluation)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/teacherevaluation.c)|2022-06-01|23:08:11|
 |199|[A Vicious Pikeman (Easy)](https://open.kattis.com/problems/pikemaneasy)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/pikemaneasy.py)|2022-06-03|00:05:01|
 |200|[Growling Gears](https://open.kattis.com/problems/growlinggears)|[C](https://github.com/Sealpillow/Kattis/blob/main/src/c/growlinggears.c)|2022-06-03|21:32:51|
-
-
-
+|201|[Pea Soup and Pancakes)](https://open.kattis.com/problems/peasoup)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/peasoup.py)|2022-06-05|23:52:47|
+|202|[No Thanks!](https://open.kattis.com/problems/nothanks)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/nothanks.py)|2022-06-06|19:30:42|
+|203|[Smoothie Stand](https://open.kattis.com/problems/smoothiestand)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/smoothiestand.py)|2022-06-06|21:45:57|
+|204|[Missing Number](https://open.kattis.com/problems/missingnumber)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/missingnumber.py)|2022-06-07|18:31:33|
+|205|[Mars Window](https://open.kattis.com/problems/marswindow)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/marswindow.py)|2022-06-08|10:21:50|
+|206|[Sperhling](https://open.kattis.com/problems/spehrling)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/spehrling.py)|2022-06-10|22:06:01|
+|207|[Simple Addition](https://open.kattis.com/problems/simpleaddition)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/simpleaddition.py)|2022-06-12|20:08:43|
+|208|[Line Them Up](https://open.kattis.com/problems/lineup)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/lineup.py)|2022-06-12|21:36:45|
+|209|[Hidden Password](https://open.kattis.com/problems/hidden)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/hidden.py)|2022-06-13|12:36:31|
+|210|[Nine Knights](https://open.kattis.com/problems/nineknights)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/nineknights.py)|2022-06-13|17:03:23|
+|211|[Exam](https://open.kattis.com/problems/exam)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/exam.py)|2022-06-14|09:53:10|
+|212|[Soft Passwords](https://open.kattis.com/problems/softpasswords)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/softpasswords.py)|2022-06-14|16:08:31|
+|213|[Prsteni](https://open.kattis.com/problems/prsteni)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/prsteni.py)|2022-06-24|18:41:20|
+|214|[Death Knight Hero](https://open.kattis.com/problems/deathknight)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/deathknight.py)|2022-06-24|19:17:54|
+|215|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sifferprodukt.py)|2022-06-24|19:39:42|
+|216|[Conformity](https://open.kattis.com/problems/conformity)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/conformity.py)|2022-06-24|13:21:52|
+|217|[Server](https://open.kattis.com/problems/server)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/server.py)|2022-06-24|13:53:31|
+|218|[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/thisaintyourgrandpascheckerboard.py
+)|2022-06-24|15:12:57|
