@@ -222,5 +222,4 @@
 |215|[Digit Product](https://open.kattis.com/problems/sifferprodukt)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/sifferprodukt.py)|2022-06-24|19:39:42|
 |216|[Conformity](https://open.kattis.com/problems/conformity)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/conformity.py)|2022-06-24|13:21:52|
 |217|[Server](https://open.kattis.com/problems/server)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/server.py)|2022-06-24|13:53:31|
-
 |218|[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/thisaintyourgrandpascheckerboard.py)|2022-06-24|15:12:57|
