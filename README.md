@@ -225,3 +225,4 @@
 |218|[This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard)|[Python](https://github.com/Sealpillow/Kattis/blob/main/src/python/thisaintyourgrandpascheckerboard.py)|2022-06-24|15:12:57|
 |219|[Average Character](https://open.kattis.com/problems/averagecharacter)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/averagecharacter.java)|2022-06-24|19:39:42|
 |220|[Shopping List (Easy)](https://open.kattis.com/problems/shoppinglisteasy)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/shoppinglisteasy.java)|2022-06-24|19:39:42|
+|221|[Another Candies](https://open.kattis.com/problems/anothercandies)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/shoppinglisteasy.java)|2022-06-24|19:39:42|
