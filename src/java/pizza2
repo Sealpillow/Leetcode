@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class pizza2
+{
+    public static void main(String[]args)
+    {
+        Scanner input = new Scanner(System.in);
+        int radius = input.nextInt();
+        int crust = input.nextInt();
+        System.out.printf("%.6f",Math.pow(radius-crust,2)/Math.pow(radius,2)*100);
+    }
+}
