@@ -228,3 +228,4 @@
 |221|[Another Candies](https://open.kattis.com/problems/anothercandies)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/anothercandies.java)|2022-06-24|19:39:42|
 |221|[Pizza Crust](https://open.kattis.com/problems/pizza2)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/pizza2.java)|2022-06-24|19:39:42|
 |222|[Astrological Sign](https://open.kattis.com/problems/astrologicalsign)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/astrologicalsign.java)|2022-06-24|19:39:42|
+|223|[Black Friday](https://open.kattis.com/problems/blackfriday)|[Java](https://github.com/Sealpillow/Kattis/blob/main/src/java/blackfriday.java)|2022-06-24|19:39:42|
