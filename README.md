@@ -16,11 +16,11 @@
 |9|[Remove Element](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |10|[Sort Characters By Frequency](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |11|[Integer to Roman](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|12|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|13|[Palindrome Number](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|14|[Climbing Stairs](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|15|[Sqrt(x)](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|16|[Add Binary](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
+|12|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/RemoveDuplicatesFromSortedArray.java)|Easy|
+|13|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PalindromeNumber.java)|Easy|
+|14|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ClimbingStairs.java)|Easy|
+|15|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/Sqrtx.java)|Easy|
+|16|[Add Binary](https://leetcode.com/problems/add-binary/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/AddBinary.java)|Easy|
 |17|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/BestTimeToBuyAndSellStock.java)|Easy|
 |18|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidPalindrome.java)|Easy|
 |19|[Single Number](https://leetcode.com/problems/single-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/SingleNumber.java)|Easy|
