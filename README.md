@@ -21,15 +21,15 @@
 |14|[Climbing Stairs](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |15|[Sqrt(x)](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |16|[Add Binary](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|17|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|18|[Valid Palindrome](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|19|[Single Number](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|20|[Contains Duplicate](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|21|[Reverse Integer](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|22|[Power of Two](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|23|[Jump Game](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|24|[Can Place Flowers](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|25|[Assign Cookies](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/AssignCookies.java)|Easy|
-|26|[Maximum Length of Pair Chain](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/MaximumLengthOfPairChain.java)|Easy|
+|17|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/BestTimeToBuyAndSellStock.java)|Easy|
+|18|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidPalindrome.java)|Easy|
+|19|[Single Number](https://leetcode.com/problems/single-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/SingleNumber.java)|Easy|
+|20|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ContainsDuplicate.java)|Easy|
+|21|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ReverseInteger.java)|Easy|
+|22|[Power of Two](https://leetcode.com/problems/power-of-two/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PowerOfTwo.java)|Easy|
+|23|[Jump Game](https://leetcode.com/problems/jump-game/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/JumpGame.java)|Easy|
+|24|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/CanPlaceFlowers.java)|Easy|
+|25|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/AssignCookies.java)|Easy|
+|26|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/MaximumLengthOfPairChain.java)|Easy|
 |27|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ZigzagConversion.java)|Easy|
 
