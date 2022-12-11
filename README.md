@@ -5,17 +5,17 @@
 ## Completions
 | S\N | Problem | Language | Difficulty |
 |:----:|:------------:|:--------:|:----------:|
-|1|[Fibonacci Number](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
+|1|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/FibonacciNumber.java)|Easy|
 |2|[Pascal's Triangle](https://leetcode.com/problems/pascalstriangle/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PascalTriangle.java)|Easy|
-|3|[Two Sum](https://leetcode.com/problems/twosum/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/twoSum.java)|Easy|
+|3|[Two Sum](https://leetcode.com/problems/twosum/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/TwoSum.java)|Easy|
 |4|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|5|[Length of Last Word](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|6|[Unique Number of Occurrences](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|7|[Roman to Integer](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|8|[Plus One](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|9|[Remove Element](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|10|[Sort Characters By Frequency](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|11|[Integer to Roman](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
+|5|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/LengthOfLastWord.java)|Easy|
+|6|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/UniqueNumberOfOccurrences.java)|Easy|
+|7|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/RomanToInteger.java)|Easy|
+|8|[Plus One](https://leetcode.com/problems/plus-one/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PlusOne.java)|Easy|
+|9|[Remove Element](https://leetcode.com/problems/remove-element/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/RemoveElement.java)|Easy|
+|10|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/SortCharactersByFrequency.java)|Easy|
+|11|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/IntegerToRoman.java)|Easy|
 |12|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/RemoveDuplicatesFromSortedArray.java)|Easy|
 |13|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PalindromeNumber.java)|Easy|
 |14|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ClimbingStairs.java)|Easy|
