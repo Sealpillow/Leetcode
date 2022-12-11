@@ -6,8 +6,8 @@
 | S\N | Problem | Language | Difficulty |
 |:----:|:------------:|:--------:|:----------:|
 |1|[Fibonacci Number](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|2|[Pascal's Triangle](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|3|[Two Sum](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
+|2|[Pascal's Triangle](https://leetcode.com/problems/pascalstriangle/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PascalTriangle.java)|Easy|
+|3|[Two Sum](https://leetcode.com/problems/twosum/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/twoSum.java)|Easy|
 |4|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |5|[Length of Last Word](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |6|[Unique Number of Occurrences](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
@@ -29,7 +29,7 @@
 |22|[Power of Two](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |23|[Jump Game](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |24|[Can Place Flowers](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|25|[Assign Cookies](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|26|[Maximum Length of Pair Chain](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
-|27|[Zigzag Conversion](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
+|25|[Assign Cookies](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/AssignCookies.java)|Easy|
+|26|[Maximum Length of Pair Chain](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/MaximumLengthOfPairChain.java)|Easy|
+|27|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ZigzagConversion.java)|Easy|
 
