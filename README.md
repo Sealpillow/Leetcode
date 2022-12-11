@@ -32,4 +32,4 @@
 |25|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/AssignCookies.java)|Easy|
 |26|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/MaximumLengthOfPairChain.java)|Medium|
 |27|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ZigzagConversion.java)|Medium|
-|28|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidPalindromeII.java)|Medium|
+|28|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidPalindromeII.java)|Easy|
