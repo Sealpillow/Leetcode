@@ -6,8 +6,8 @@
 | S\N | Problem | Language | Difficulty |
 |:----:|:------------:|:--------:|:----------:|
 |1|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/FibonacciNumber.java)|Easy|
-|2|[Pascal's Triangle](https://leetcode.com/problems/pascalstriangle/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PascalTriangle.java)|Easy|
-|3|[Two Sum](https://leetcode.com/problems/twosum/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/TwoSum.java)|Easy|
+|2|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/PascalTriangle.java)|Easy|
+|3|[Two Sum](https://leetcode.com/problems/two-sum/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/TwoSum.java)|Easy|
 |4|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/ValidParentheses.java)|Easy|
 |5|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/LengthOfLastWord.java)|Easy|
 |6|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[java](https://github.com/Sealpillow/Leetcode/blob/main/src/java/UniqueNumberOfOccurrences.java)|Easy|
